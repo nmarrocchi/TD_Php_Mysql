@@ -1,0 +1,182 @@
+body{
+    margin: 0%;
+}
+html{
+}
+
+/* CSS Exo 1 */
+.bandeau1{
+    width:100%;
+    background-color: cyan;
+    height: 10%;
+    text-align: center;
+    margin: 0%;
+    padding-bottom: 0.8%;
+}
+.contenu1{
+    width:100%;
+    background-color: orange;
+    height: 80%;
+    text-align: center;
+    margin: 0%;
+    padding-top: 14.6%;
+    padding-bottom: 14.6%;
+}
+.footer1{
+    width:100%;
+    background-color: limegreen;
+    height: 10%;
+    text-align: center;
+    margin: 0%;
+    padding-top: 0.8%;
+    padding-bottom: 0.8%;
+}
+
+
+/* CSS Exo 2 */
+
+.menu1, .contenu2{
+    display: inline-block;
+}
+.bandeau2{
+    width:100%;
+    background-color: cyan;
+    height: 10%;
+    text-align: center;
+    margin: 0%;
+    padding-bottom: 0.8%;
+}
+.contenu2{
+    float: right;
+    width: 91%;
+    height: 100%;
+    background-color: orange;
+    text-align: center;
+    padding-top: 14.5%;
+    padding-bottom: 14.5%;
+}
+.footer2{
+    width:100%;
+    background-color: limegreen;
+    height: 10%;
+    text-align: center;
+    margin: 0%;
+    padding-top: 0.8%;
+    padding-bottom: 0.8%;
+}
+.menu1{
+    width:8%;
+    background-color: palevioletred;
+    height: 100%;
+    text-align: center;
+    margin: 0%;
+    padding: 14.5%;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+}
+
+/* CSS Exo 3 */
+
+.menu2, .contenu3{
+    display: inline-block;
+}
+.bandeau3{
+    width:100%;
+    background-color: cyan;
+    height: 10%;
+    text-align: center;
+    margin: 0%;
+    padding-bottom: 0.8%;
+}
+.contenu3{
+    float: right;
+    width: 91.73%;
+    height: 100%;
+    background-color: orange;
+    text-align: center;
+    padding-top: 14.5%;
+    padding-bottom: 14.5%;
+}
+.footer3{
+    width:100%;
+    background-color: limegreen;
+    height: 10%;
+    text-align: center;
+    margin: 0%;
+    padding-top: 0.8%;
+    padding-bottom: 0.8%;
+}
+.menu2{
+    background-color: grey;
+    height: 100%;
+}
+
+.menu-haut1{
+    background-color: lime;
+}
+.menu-bas1{
+    background-color: purple;
+}
+.menu-haut1, .menu-bas1 {
+    padding-top: 76%;
+    padding-bottom: 76%;
+    text-align: center;
+}
+
+
+/* CSS Exo 4 */
+
+.menu3, .contenu4{
+    display: inline-block;
+}
+.bandeau4{
+    width:100%;
+    background-color: cyan;
+    height: 10%;
+    text-align: center;
+    margin: 0%;
+    padding-bottom: 0.8%;
+}
+.contenu4{
+    background-color: orange;
+    text-align: center;
+    width: 91.5%;
+    padding-top: 14.5%;
+    padding-bottom: 14.5%;
+
+}
+.footer4{
+    width:100%;
+    background-color: limegreen;
+    text-align: center;
+    margin: 0%;
+    padding-top: 0.8%;
+    padding-bottom: 0.8%;
+}
+
+.menu3{
+    background-color: grey;
+    height: 100%;
+    float: left;
+}
+
+.menu-haut2{
+    background-color: lime;
+}
+.menu-bas2{
+    background-color: purple;
+}
+.menu-haut2, .menu-bas2 {
+    padding-top: 75.5%;
+    padding-bottom: 75.5%;
+    text-align: center;
+}
+
+.bloc-news{
+    position: absolute;
+    background-color: red;
+    right: 0px;
+    margin: 0%;
+    width: 7%;
+    text-align: center;
+}

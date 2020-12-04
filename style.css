@@ -1,0 +1,21 @@
+a, a:visited, a:hover, a:active, a:focus {
+    text-decoration: none;
+    color: white;
+  }
+
+body{
+    margin: 0%;
+    background-image: url('img/Wallpaper.jpg');
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-size: 45px;
+    color: white;
+}
+h2{
+    font-size:35px;
+    color: white;
+}

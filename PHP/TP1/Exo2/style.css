@@ -1,0 +1,11 @@
+table {
+    border: solid grey 1px;
+}
+
+table tr{
+    border: solid green 1px;
+}
+
+table tr td{
+    border: solid purple 1px;
+}
