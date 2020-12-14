@@ -11,6 +11,9 @@ include('../../../menu.php');
 
   function racines($a, $b, $c) {
 
+    
+echo('<link rel="stylesheet" href="style.css" type="text/css">'); 
+
     echo "Recherche des solutions de l'équation $a x² + $b x + $c<br>";
 
     $delta = $b*$b - (4 * $a * $c);
