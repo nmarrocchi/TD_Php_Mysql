@@ -18,7 +18,7 @@
             <li><a href="<?php echo $ExoCSS ?>exo4.php">Exercice n°4</a></li>
 		</ul>
     </li>
-    <li><a href="#">Exos PhP TP1</a>
+    <li><a href="#">Exos PhP Part 1</a>
 		<ul>
 			      <li><a href="<?php echo $ExoPHP ?>TP1/Exo1/exo1.php">Exercice n°1</a></li>
             <li><a href="<?php echo $ExoPHP ?>TP1/Exo2/exo2.php">Exercice n°2</a></li>
@@ -31,20 +31,23 @@
             <li><a href="<?php echo $ExoPHP ?>TP1/ExoFinal/exofinal.php">Exercice Final</a></li>
 		</ul>
     </li>
-    <li><a href="#">Exos PhP TP2</a>
+    <li><a href="#">Exos PhP Part 2</a>
 		<ul>
-			      <li><a href="<?php echo $ExoPHP ?>TP2/Exo1/exo1.php">Exercice n°1</a></li>
-            <li><a href="<?php echo $ExoPHP ?>TP2/Exo2/exo2.php">Exercice n°2</a></li>
-            <li><a href="<?php echo $ExoPHP ?>TP2/Exo3/exo3.php">Exercice n°3</a></li>
-            <li><a href="<?php echo $ExoPHP ?>TP2/ExoFinal/exofinal.php">Exercice Final</a></li>
+			      <li><a href="<?php echo $ExoPHP ?>TP2/Exo1/PHP_Partie2_Exo1.php">Exercice n°1</a></li>
+            <li><a href="<?php echo $ExoPHP ?>TP2/Exo2/PHP_Partie2_Exo2.php">Exercice n°2</a></li>
+            <li><a href="<?php echo $ExoPHP ?>TP2/Exo3/PHP_Partie2_Exo3.php">Exercice n°3</a></li>
+            <li><a href="<?php echo $ExoPHP ?>TP2/ExoFinal/PHP_Partie2_ExoFinal.php">Exercice Final</a></li>
 		</ul>
     </li>
-    <li><a href="#">Exos PhP TP3</a>
+    <li><a href="#">BDD TD1</a>
 		<ul>
-		        <li><a href="<?php echo $ExoPHP ?>TP3/Exo1/exo1.php">Exercice n°1</a></li>
-            <li><a href="<?php echo $ExoPHP ?>TP3/Exo2/exo2.php">Exercice n°2</a></li>
-            <li><a href="<?php echo $ExoPHP ?>TP3/Exo3/exo3.php">Exercice n°3</a></li>
-            <li><a href="<?php echo $ExoPHP ?>TP3/ExoFinal/exofinal.php">Exercice Final</a></li>
+		        <li><a href="<?php echo $ExoBDD ?>TD1/BDD_TD1_Exo1.php">Exercice n°1</a></li>
+            <li><a href="<?php echo $ExoBDD ?>TD1/BDD_TD1_Exo2.php">Exercice n°2</a></li>
+            <li><a href="<?php echo $ExoBDD ?>TD1/BDD_TD1_Exo3.php">Exercice n°3</a></li>
+            <li><a href="<?php echo $ExoBDD ?>TD1/BDD_TD1_Exo4.php">Exercice n°4</a></li>
+            <li><a href="<?php echo $ExoBDD ?>TD1/BDD_TD1_Exo5.php">Exercice n°5</a></li>
+            <li><a href="<?php echo $ExoBDD ?>TD1/BDD_TD1_Exo6.php">Exercice n°6</a></li>
+            <li><a href="<?php echo $ExoBDD ?>TD1/BDD_TD1_Exo7.php">Exercice n°7</a></li>
 		</ul>
     </li>
 </ul>

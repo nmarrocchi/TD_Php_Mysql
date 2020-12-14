@@ -4,6 +4,8 @@ $Accueil = "../../../";
 $ExoHTML = "../../../HTML/";
 $ExoCSS = "../../../CSS/";
 $ExoPHP = "../../";
+$ExoBDD = "../../../BDD/";
+$ExoSQL = "../../../SQL/";
 
 echo('<link rel="stylesheet" href="style.css" type="text/css">'); 
 include('../../../menu.php');

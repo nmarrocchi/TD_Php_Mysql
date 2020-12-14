@@ -10,6 +10,8 @@
                 $ExoHTML = "HTML/";
                 $ExoCSS = "CSS/";
                 $ExoPHP = "PHP/";
+                $ExoBDD = "BDD/";
+                $ExoSQL = "SQL/";
 
             ?>
 

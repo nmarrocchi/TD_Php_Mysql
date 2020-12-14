@@ -8,6 +8,8 @@
                 $ExoHTML = "../HTML/";
                 $ExoCSS = "";
                 $ExoPHP = "../PHP/";
+                $ExoBDD = "../BDD/";
+                $ExoSQL = "../SQL/";
 
             ?>
     </head>
